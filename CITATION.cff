@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "sf-verify: re-derive admission decisions offline"
+abstract: >-
+  re-derive admission decisions offline
+authors:
+  - family-names: Harris
+    given-names: Nick
+repository-code: "https://github.com/nickharris808/sf-verify"
+url: "https://github.com/nickharris808/sf-verify"
+license: Apache-2.0
+type: software
+keywords:
+  - verification
+  - abstention
+  - reproducibility

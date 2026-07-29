@@ -1,0 +1,3 @@
+CLEAN
+
+Offline re-derivation of a hash-chained decision log. Verifies records; implements no filed apparatus.

@@ -1,0 +1,15 @@
+[project]
+name = "sf-verify"
+version = "0.1.0"
+description = "Re-derive an AI deployment's recorded admission decisions offline. Trusts nothing but its inputs."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "Apache-2.0" }
+dependencies = []
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[project.scripts]
+sf-verify = "sf_verify.cli:main"
+[tool.sf-verify]
+license-tag = "CLEAN"
