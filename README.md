@@ -375,7 +375,7 @@ gate that emits entries as it makes decisions — is the licensed offering, and 
 
 ## Licence
 
-Apache-2.0. **CLEAN** — verifies and reports; implements no filed apparatus. See
+Apache-2.0. **CLEAN** — verifies and reports; implements no apparatus covered by the patent claims drafted. See
 [`LICENSE`](LICENSE), [`LICENSE-TAG`](LICENSE-TAG) and [`CLAIMS-MAP.md`](CLAIMS-MAP.md).
 
 ## Contributing
@@ -450,7 +450,7 @@ running `--help` on every published command.
 
 Everything above is **measure-only** and Apache-2.0: it tells you what is true and never acts on
 it. The **enforcement** side — binding a partition key at the admission decision, the compiled gate
-corpus, and the certificate-*issuing* faucet — is covered by filed patents and licensed separately.
+corpus, and the certificate-*issuing* faucet — is licensed separately; patent claims drafted, filing status available on request.
 
 **Reading is free. Enforcing is licensed.**
 <!-- /PORTFOLIO -->
