@@ -6,7 +6,7 @@ This file exists so the CLEAN tag is *auditable* rather than asserted.
 
 ## The line
 
-Every method independent in the filed set terminates in a **physical actuation** step. The family
+Every method independent in the drafted set terminates in a **physical actuation** step. The family
 nearest this tool recites:
 
 > *"…recording the recomputed root value over the evidence set … and **refusing to admit a gate
@@ -23,7 +23,7 @@ nothing into any relying party's environment, and issues no entries.
 
 ## Claims approached, and the step not performed
 
-| Filed claim family | What it recites | What sf-verify does instead |
+| Drafted claim family | What it recites | What sf-verify does instead |
 |---|---|---|
 | Evidence-backed admission gating | maintaining an evidence set backing an admission gate; recomputing a root over it; **refusing to admit a gate decision** in reliance on it | Recomputes the chain and reports. The exit code is a reporting convention; nothing is gated. |
 | Length-committing anchoring | binding a log to a committed length and head so tail truncation is closed, and **admitting or refusing** on the result | Verifies an anchor **supplied to it**. It does not produce anchors, does not operate a log, and does not act on the outcome. |
